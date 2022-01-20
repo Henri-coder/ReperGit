@@ -1,0 +1,23 @@
+Le mode incremental :
+le mode incremental se base sur celui en cascade en y ajoutant la particularite de fournir à chaque étape, une version du logiciel fonctionnel et dont les fonctionnalités augmenteront à chaque etapes pour respecter le plus possble le cahier des charges.
+
+Le mode en spiral :
+le model en spiral est similaire au model incremental à la différence que ce dernier envisage de modifier le caheir des charges en fonction des possibilités techniques e a pour but de reduire les risques.
+
+Le mode incremental :
+le mode incremental se base sur celui en cascade en y ajoutant la particularite de fournir à chaque étape, une version du logiciel fonctionnel et dont les fonctionnalités augmenteront à chaque etapes pour respecter le plus possble le cahier des charges.
+
+Le mode en spiral :
+le model en spiral est similaire au model incremental à la différence que ce dernier envisage de modifier le caheir des charges en fonction des possibilités techniques e a pour but de reduire les risques.
+
+Le mode incremental :
+le mode incremental se base sur celui en cascade en y ajoutant la particularite de fournir à chaque étape, une version du logiciel fonctionnel et dont les fonctionnalités augmenteront à chaque etapes pour respecter le plus possble le cahier des charges.
+
+Le mode en spiral :
+le model en spiral est similaire au model incremental à la différence que ce dernier envisage de modifier le caheir des charges en fonction des possibilités techniques e a pour but de reduire les risques.
+
+Le mode incremental :
+le mode incremental se base sur celui en cascade en y ajoutant la particularite de fournir à chaque étape, une version du logiciel fonctionnel et dont les fonctionnalités augmenteront à chaque etapes pour respecter le plus possble le cahier des charges.
+
+Le mode en spiral :
+le model en spiral est similaire au model incremental à la différence que ce dernier envisage de modifier le caheir des charges en fonction des possibilités techniques e a pour but de reduire les risques.
